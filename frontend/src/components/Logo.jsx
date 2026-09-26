@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 const Logo = ({ dark }) => (
   <Link to="/" className="flex items-center gap-2.5 shrink-0">
     <img
-      src="/alpha-enterprise-logo.png"
+      src="/logo.png"
       alt="Alpha Enterprise Solution Pvt Ltd logo"
       className="h-11 w-11 shrink-0 object-contain"
     />
